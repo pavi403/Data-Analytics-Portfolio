@@ -1,39 +1,101 @@
-# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio. This repository showcases projects developed using Excel, SQL, and Power BI to analyze data, create dashboards, and generate business insights.
+Welcome to my Data Analytics Portfolio. This repository showcases data analytics projects developed using Excel, SQL, and Power BI to analyze data, build interactive dashboards, and generate actionable business insights.
 
-## Projects
+## 🔹 Project 1: Library Management Dashboard (Excel)
 
-### Excel Library Management Dashboard
+### Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Dashboard
 
-* Built an interactive dashboard using Pivot Tables, Pivot Charts, KPIs, and Slicers.
-* Analyzed books, members, transactions, fines, staff, and reviews.
-* Generated insights on book genres, member distribution, fine collection, and ratings.
+### Key Analysis
+- Book Genre Distribution
+- Member Analysis by City
+- Membership Status Analysis
+- Fine Collection Tracking
+- Average Rating Analysis
 
-### SQL Data Analysis Project
+### Outcome
+Developed an interactive dashboard to monitor library performance and identify key trends from 10,000+ records.
 
-* Performed data analysis using SQL queries.
-* Applied Joins, Aggregate Functions, Group By, Having, Subqueries, and Window Functions.
-* Solved business-focused analytical questions and extracted meaningful insights.
+---
 
-### Power BI Dashboard
+## 🔹 Project 2: Library Data Analysis (SQL)
 
-* Developed an interactive dashboard with KPIs and visualizations.
-* Performed data cleaning, transformation, and modeling.
-* Created reports to support data-driven decision-making.
+### Tools Used
+- MySQL
 
-## Skills Demonstrated
+### Concepts Applied
+- Joins
+- Aggregate Functions
+- Group By
+- Having Clause
+- Subqueries
+- Window Functions
 
-* Microsoft Excel
-* SQL (MySQL)
-* Power BI
-* Data Cleaning
-* Data Visualization
-* Dashboard Development
-* Business Analytics
-* Reporting and Insights Generation
+### Key Analysis
+- Most Borrowed Books
+- Highest Fine Collections
+- Member Activity Analysis
+- Department-wise Staff Analysis
+- Rating-Based Insights
 
-## About Me
+### Outcome
+Performed analytical queries to extract meaningful business insights from relational datasets.
 
-Aspiring Data Analyst with hands-on experience in Excel, SQL, and Power BI. Passionate about transforming data into meaningful insights through analysis and visualization.
+---
+
+## 🔹 Project 3: Library Dashboard (Power BI)
+
+### Tools Used
+- Power BI
+- Power Query
+- DAX
+
+### Key Features
+- Interactive Visualizations
+- KPI Cards
+- Dynamic Filters
+- Data Modeling
+
+### Outcome
+Built a professional dashboard to support data-driven decision-making through visual analytics.
+
+---
+
+## 🛠 Technical Skills
+
+- Microsoft Excel
+- SQL (MySQL)
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Business Analytics
+- Reporting & Insights Generation
+
+---
+
+## 🎓 Certification
+
+**Data Analytics Certification**  
+Besant Technologies
+
+---
+
+## 👩‍💻 About Me
+
+Aspiring Data Analyst with hands-on experience in Excel, SQL, Power BI, and Python. Passionate about transforming raw data into meaningful insights through analysis, visualization, and dashboard development.
+
+## 🔗 Connect With Me
+
+LinkedIn: www.linkedin.com/in/pavithra-veera-43a694224
+
+GitHub: github.com/pavi403
+
+
 
